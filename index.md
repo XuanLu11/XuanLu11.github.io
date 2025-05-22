@@ -3,10 +3,11 @@ layout: page
 title: "😄Welcome to My Personal Website!"
 ---
 
-<span style='font-size: 45px; white-space: nowrap;'>😄**Welcome to My Personal Website!**</span>
-<hr style="border: 1px solid #ccc;" />
+<span style="font-size: 45px; white-space: nowrap;">😄 <strong>Welcome to My Personal Website!</strong></span>
+<hr style="border: 1px solid #ccc; margin-top: 4px;" />
 
-# About Me
+
+## About Me
 
 <img src="https://xuanlu11.github.io/xuanlu.jpg" class="floatpic">
 

@@ -13,7 +13,7 @@ title: "😄Welcome to My Personal Website!"
 
 Hi, I'm **Xuan Lu (鲁旋)**.<br>
 
-I’m an undergraduate student in Data Science (Mathematics Category) at Harbin Institute of Technology, Shenzhen (graduating in 2026). My research centers on machine learning, computational imaging, and hyperspectral image restoration, advised by [Prof. Yongyong Chen](https://scholar.google.com/citations?user=ny2mn-cAAAAJ), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). <br>
+I’m an undergraduate student in Data Science (Mathematics Category) at Harbin Institute of Technology, Shenzhen (graduating in 2026). My research centers on machine learning, computational imaging, and hyperspectral image restoration, advised by [Prof. Yongyong Chen](https://scholar.google.com/citations?user=ny2mn-cAAAAJ). <br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. 
 

@@ -31,8 +31,6 @@ Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 - 
 - 
 
-
-
 ---
 
 ## News and Updates
@@ -44,8 +42,6 @@ Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 
 ## Honors & Awards
 
-## More About Me
-
 - **National First Prize (Top 0.5%)**, Contemporary Undergraduate Mathematical Contest in Modeling (CSIAM, PRC, 2024)
 - **First Prize**, 15th Chinese Mathematics Competition (2023)
 
@@ -53,6 +49,8 @@ Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 
 - **National Encouragement Scholarship** (MoE, PRC, 2024)
 - **Second-Class Scholarship**, Undergraduate Academic Excellence Award (2023 & 2024, HITSZ)
+
+## More About Me
 
 I'm a football enthusiast, and I'm also good at sprinting. **Achievement**:
 

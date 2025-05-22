@@ -2,8 +2,8 @@
 layout: page
 ---
 
-title: "<span style='font-size: 15px; white-space: nowrap;'>😄Welcome to My Personal Website!</span>"
----
+<span style='font-size: 45px; white-space: nowrap;'>😄Welcome to My Personal Website!</span>
+<hr style="border: 0; height: 1px; background: #e0e0e0;">
 
 # About Me
 

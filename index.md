@@ -4,7 +4,7 @@ title: "😄Welcome to My Personal Website!"
 ---
 
 <span style='font-size: 45px; white-space: nowrap;'>😄**Welcome to My Personal Website!**</span>
-<hr style="margin-top: 2px; width: 800px; border: 0; height: 2px; background: #e0e0e0;">
+<hr style="border: 1px solid #ccc;" />
 
 # About Me
 

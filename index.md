@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://xuanlu11.github.io/xuanlu.jpg" class="floatpic">
 
 Here is **Xuan Lu (鲁旋)**.<br>
 

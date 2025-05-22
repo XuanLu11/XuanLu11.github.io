@@ -42,11 +42,20 @@ Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 
 ---
 
+## Honors & Awards
+
 ## More About Me
 
-I'm a football enthusiast, and I'm also good at sprinting.
+- **National First Prize (Top 0.5%)**, Contemporary Undergraduate Mathematical Contest in Modeling (CSIAM, PRC, 2024)
+- **First Prize**, 15th Chinese Mathematics Competition (2023)
 
-**Achievement**:
+### Scholarships
+
+- **National Encouragement Scholarship** (MoE, PRC, 2024)
+- **Second-Class Scholarship**, Undergraduate Academic Excellence Award (2023 & 2024, HITSZ)
+
+I'm a football enthusiast, and I'm also good at sprinting. **Achievement**:
+
 - 🥇1st Place, 2023 7th Track and Field Games of Harbin Institute of Technology, Shenzhen (Men's 4x100 Meter Relay Race) 
 
 <br>

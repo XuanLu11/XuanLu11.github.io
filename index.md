@@ -3,9 +3,10 @@ layout: page
 title: "😄Welcome to My Personal Website!"
 ---
 
-<span style="font-size: 45px; white-space: nowrap;">😄 <strong>Welcome to My Personal Website!</strong></span>
+<div style="font-size: 45px; white-space: nowrap; margin-bottom: 4px;">
+  😄 <strong>Welcome to My Personal Website!</strong>
+</div>
 <hr style="border: 1px solid #ccc; margin-top: 4px;" />
-
 
 ## About Me
 

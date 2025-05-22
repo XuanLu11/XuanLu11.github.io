@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "😄Welcome to My Personal Website!</span>"
+title: "😄Welcome to My Personal Website!"
 ---
 
 #<span style='font-size: 45px; white-space: nowrap;'>😄Welcome to My Personal Website!</span>

@@ -4,7 +4,7 @@ title: "😄Welcome to My Personal Website!"
 ---
 
 <span style='font-size: 45px; white-space: nowrap;'>😄**Welcome to My Personal Website!**</span>
-<hr style="margin-top: 10px; width: 100px; border: 0; height: 1px; background: #e0e0e0;">
+<hr style="margin-top: 2px; width: 800px; border: 0; height: 2px; background: #e0e0e0;">
 
 # About Me
 
@@ -12,11 +12,13 @@ title: "😄Welcome to My Personal Website!"
 
 Hi, I'm **Xuan Lu (鲁旋)**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+I’m an undergraduate student in Data Science (Mathematics Category) at Harbin Institute of Technology, Shenzhen (graduating in 2026). My research centers on machine learning, computational imaging, and hyperspectral image restoration, advised by [Prof. Yongyong Chen](https://scholar.google.com/citations?user=ny2mn-cAAAAJ), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). <br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+If you are interested in any aspect of me, I am always open to discussions and collaborations. 
 
 **<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**
+
+Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 
 ---
 

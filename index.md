@@ -47,7 +47,6 @@ Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 I'm a football enthusiast, and I'm also good at sprinting.
 
 **Achievement**:
-
 - 🥇1st Place, 2023 7th Track and Field Games of Harbin Institute of Technology, Shenzhen (Men's 4x100 Meter Relay Race) 
 
 <br>

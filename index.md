@@ -3,7 +3,7 @@ layout: page
 title: "😄Welcome to My Personal Website!"
 ---
 
-#<span style='font-size: 45px; white-space: nowrap;'>😄Welcome to My Personal Website!</span>
+<span style='font-size: 45px; white-space: nowrap;'>😄**Welcome to My Personal Website!**</span>
 <hr style="border: 0; height: 1px; background: #e0e0e0;">
 
 # About Me
@@ -16,7 +16,7 @@ I am a graduate student in the Department of Engineering at the University of Ca
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
+**<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**
 
 ---
 

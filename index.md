@@ -16,7 +16,7 @@ Hi, I'm **Xuan Lu (鲁旋)**.<br>
 
 I’m an undergraduate student in Data Science (Mathematics Category) at Harbin Institute of Technology, Shenzhen (graduating in 2026). My research centers on machine learning, computational imaging, and hyperspectral image restoration, advised by [Prof. Yongyong Chen](https://scholar.google.com/citations?user=ny2mn-cAAAAJ). <br>
 
-I have submitted one paper to IJCV as the first author and one paper to Neurips 2025 as the co-first author. 
+I have contributed as the first author to a manuscript submitted to the International Journal of Computer Vision (IJCV), and as a co-first author to another manuscript submitted to NeurIPS 2025. 
 
 **<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission.</font>**
 

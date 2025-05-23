@@ -35,7 +35,7 @@ Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 
 ## News and Updates
 
-- **May 2025**：One paper submitted to Neurips 2025.
+- **May 2025**：One paper submitted to NeurIPS 2025.
 - **March 2025**：One paper submitted to IJCV.
 
 ---

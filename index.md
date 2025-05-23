@@ -43,7 +43,7 @@ Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 ## Honors & Awards
 
 - **National First Prize (Top 0.5%)**, Contemporary Undergraduate Mathematical Contest in Modeling (CSIAM, PRC, 2024)
-- **First Prize**, 15th Chinese Mathematics Competition (2023)
+- **Second Prize**, 15th Chinese Mathematics Competition (2023)
 - **National Encouragement Scholarship** (MoE, PRC, 2024)
 - **Second-Class Scholarship**, Undergraduate Academic Excellence Award (2023 & 2024, HITSZ)
 

@@ -25,11 +25,12 @@ Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 ---
 
 ## Research Experience & Interests
+**Research Experience**
+- 
+- 
+- 
 
-- 
-- 
-- 
-- 
+**Research Interests**
 
 ---
 

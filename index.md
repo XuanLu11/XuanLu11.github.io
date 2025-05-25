@@ -36,6 +36,7 @@ Developed a dual-speed framework that enables self-supervised, per-sample test-t
 
 - **Simulation and Optimization of the "Bench Dragon" Folk Dance (Sep. 2024)**\\
 Modeled and simulated the motion of the traditional southeastern Chinese “Bench Dragon” folk dance using equidistant spiral trajectories. Achieved high accuracy and practical outcomes. National First Prize, 2024 CUMCM.
+
 <br>
 **Research Interests**
 My research focuses on bridging the gap between theoretical modeling and practical algorithm design, and currently focuses on:

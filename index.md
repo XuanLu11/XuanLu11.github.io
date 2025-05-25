@@ -39,7 +39,7 @@ Modeled and simulated the motion of the traditional southeastern Chinese “Benc
 
 ### Research Interests
 My research focuses on bridging the gap between theoretical modeling and practical algorithm design, and currently focuses on:
-- **Spectral Compressive imaging and Sparse Optimization**
+- **Compressive Sensing and Sparse Optimization**
 - **Low-Level Vision and Computational Imaging**
 - **Image/Video/3D Generation/Reconstruction**
 

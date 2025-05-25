@@ -26,7 +26,7 @@ Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 ---
 
 ## Research Experience & Interests
-**Research Projects**
+### Research Projects
 - **BRBCN: Block-wise Image Restoration with Inter Block’s Communication Network (Apr. 2024-Mar. 2025)**\\
 Proposed a unified CNN-Transformer framework for image restoration that effectively combines local and global representations. 
 Submitted to International Journal of Computer Vision (IJCV).
@@ -35,10 +35,9 @@ Submitted to International Journal of Computer Vision (IJCV).
 Developed a dual-speed framework that enables self-supervised, per-sample test-time adaptation via a dual-domain loss, which achieved state-of-the-art on out-of-distribution data. Submitted to a top-tier conference. 
 
 - **Simulation and Optimization of the "Bench Dragon" Folk Dance (Sep. 2024)**\\
-Modeled and simulated the motion of the traditional southeastern Chinese “Bench Dragon” folk dance using equidistant spiral trajectories. Achieved high accuracy and practical outcomes. National First Prize, 2024 CUMCM.\\
+Modeled and simulated the motion of the traditional southeastern Chinese “Bench Dragon” folk dance using equidistant spiral trajectories. Achieved high accuracy and practical outcomes. National First Prize, 2024 CUMCM.
 
-**Research Interests**\\
-
+### Research Interests
 My research focuses on bridging the gap between theoretical modeling and practical algorithm design, and currently focuses on:
 - **Spectral Compressive imaging and Sparse Optimization**
 - **Low-Level Vision and Computational Imaging**

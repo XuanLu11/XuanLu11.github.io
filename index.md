@@ -38,8 +38,8 @@ Developed a dual-speed framework that enables self-supervised, per-sample test-t
 Modeled and simulated the motion of the traditional southeastern Chinese “Bench Dragon” folk dance using equidistant spiral trajectories. Achieved high accuracy and practical outcomes. National First Prize, 2024 CUMCM.\\
 
 **Research Interests**\\
-My research focuses on bridging the gap between theoretical modeling and practical algorithm design, and currently focuses on:
 
+My research focuses on bridging the gap between theoretical modeling and practical algorithm design, and currently focuses on:
 - **Spectral Compressive imaging and Sparse Optimization**
 - **Low-Level Vision and Computational Imaging**
 - **Image/Video/3D Generation/Reconstruction**

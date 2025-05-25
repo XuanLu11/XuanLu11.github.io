@@ -19,7 +19,7 @@ I’m an undergraduate student in Data Science (Mathematics Category) at Harbin 
 I have contributed as the first author to a manuscript submitted to the International Journal of Computer Vision (IJCV), and as a co-first author to another manuscript submitted to NeurIPS 2025. 
 
 <!--**<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission.</font>**-->
-**I am actively seeking a PhD position for 2026 Fall admission**, focusing on image/video/3D generation, computational imaging, and sparsity-aware modelling.
+**I am actively seeking a PhD position for 2026 Fall admission**, focusing on image/video/3D generation, multi-modal learning, computational imaging, and sparsity-aware modelling.
 
 Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 

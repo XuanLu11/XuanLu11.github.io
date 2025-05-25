@@ -27,8 +27,7 @@ Feel free to reach out to me at [xuanlu1113@gmail.com](xuanlu1113@gmail.com)
 
 ## Research Experience & Interests
 **Research Projects**
-- **BRBCN: Block-wise Image Restoration with Inter Block’s Communication Network (Apr. 2024-Mar. 2025)**
-
+- **BRBCN: Block-wise Image Restoration with Inter Block’s Communication Network (Apr. 2024-Mar. 2025)**\\
 Proposed a unified CNN-Transformer framework for image restoration that effectively combines local and global representations. 
 Submitted to International Journal of Computer Vision (IJCV).
 

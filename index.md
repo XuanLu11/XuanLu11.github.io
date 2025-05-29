@@ -39,6 +39,7 @@ Modeled and simulated the motion of the traditional southeastern Chinese “Benc
 
 ### Research Interests
 My research focuses on bridging the gap between theoretical modeling and practical algorithm design, and currently focuses on:
+- **Test-time and continual adaptation** for vision and multimodal systems in open-world settings
 - **Compressive Sensing and Sparse Optimization**
 - **Low-Level Vision and Computational Imaging**
 - **Image/Video/3D Generation/Reconstruction**

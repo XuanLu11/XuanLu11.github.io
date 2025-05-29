@@ -52,7 +52,7 @@ My research focuses on bridging the gap between theoretical modeling and practic
 
 ---
 
-## Honors & Awards
+## Selected Honors & Awards
 
 - **National First Prize (Top 0.5%)**, Contemporary Undergraduate Mathematical Contest in Modeling (CSIAM, PRC, 2024)
 - **Second Prize**, 15th Chinese Mathematics Competition (2023)
